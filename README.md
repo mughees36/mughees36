@@ -8,8 +8,6 @@
 <p align="center">
   <a href="https://mughees-mustafa-portfolio.vercel.app/">Portfolio</a>
   ·
-  <a href="https://psx-kmi30-studio.vercel.app/">KMI-30 Analytics</a>
-  ·
   <a href="https://www.linkedin.com/in/mughees-mustafa-6bb7723b/">LinkedIn</a>
   ·
   <a href="mailto:mughees93@hotmail.com">Email</a>
