@@ -19,7 +19,7 @@
 
 I’m a mobile engineer with **10+ years of experience** building and leading iOS and Flutter products for startups and enterprise teams across the US, UK, Europe, and Pakistan.
 
-My work covers the full product lifecycle: requirements, architecture, hands-on implementation, integrations, code and pull-request reviews, releases, and production support. I currently lead mobile development for a real-estate platform with listings, lead management, ad creation, VoIP, messaging, email, document workflows, PDF editing, and e-signing.
+My work covers the full product lifecycle: requirements, Clean Architecture, hands-on implementation, third-party integrations, code and pull-request reviews, releases, and production support. I currently lead mobile development for a real-estate platform with listings, lead management, ad creation, VoIP, messaging, email, document workflows, PDF editing, and e-signing.
 
 I also design **AI-first development workflows** using ChatGPT, Claude, and specialized agents that support planning, coding, debugging, documentation, pull-request review, testing, and release validation.
 
@@ -27,9 +27,9 @@ I also design **AI-first development workflows** using ChatGPT, Claude, and spec
 
 | Mobile product engineering | AI-assisted delivery | Technical leadership |
 | --- | --- | --- |
-| Native iOS and Flutter architecture | Agentic coding and agent orchestration | Architecture and delivery ownership |
+| Native iOS, Flutter, and Clean Architecture | Agentic coding and agent orchestration | Architecture and delivery ownership |
 | App Store and Google Play delivery | ChatGPT, Claude, Ollama, and RAG | Code reviews and pull-request reviews |
-| Firebase, analytics, VoIP, payments, and push | Coding, review, documentation, and testing agents | Mentoring and stakeholder collaboration |
+| Firebase, VoIP, Stripe, in-app purchases, subscriptions, analytics, and push | Coding, review, documentation, and testing agents | Mentoring and stakeholder collaboration |
 
 ## Selected products
 
@@ -77,7 +77,7 @@ A privacy-focused assistant using open-source Ollama models, retrieval-augmented
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Asana](https://img.shields.io/badge/Asana-F06A6A?style=flat-square&logo=asana&logoColor=white)
 
-`Push notifications` · `VoIP` · `REST APIs` · `CI/CD` · `App Store Connect` · `Google Play Console`
+`Push notifications` · `VoIP` · `REST APIs` · `Stripe payment gateway integration` · `In-app purchases` · `Subscriptions` · `CI/CD` · `App Store Connect` · `Google Play Console`
 
 **AI and data**
 
